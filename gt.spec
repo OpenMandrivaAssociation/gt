@@ -1,6 +1,6 @@
 Name:           gt
 Version:        0.4
-Release:        %mkrel 1
+Release:        %mkrel 2
 Summary:        Modified Timidity which supportes enhanced gus format patches
 Group:          Sound
 License:        GPLv2+
