@@ -1,7 +1,7 @@
 Summary:	Modified Timidity which supportes enhanced gus format patches
 Name:		gt
 Version:	0.4
-Release:	10
+Release:	11
 Group:		Sound
 License:	GPLv2+
 Url:		http://alsa.opensrc.org/index.php/GusSoundfont
