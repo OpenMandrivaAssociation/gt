@@ -4,7 +4,7 @@ Version:	0.4
 Release:	11
 Group:		Sound
 License:	GPLv2+
-Url:		http://alsa.opensrc.org/index.php/GusSoundfont
+Url:		http://alsa.opensrc.org/GusSoundfont
 # This is ftp://ling.lll.hawaii.edu/pub/greg/gt-0.4.tar.gz
 # with the examples/patch and sfz directories removed as the license of the
 # samples in these dirs is unclear. Also the src/ac3* files have been removed
@@ -17,6 +17,7 @@ Patch3:		gt-0.4-config-default-velocity-layer.patch
 Patch4:		gt-0.4-ppc-compile-fix.patch
 Patch5:		gt-0.4-unsf-bigendian-fix.patch
 Patch6:		gt-0.4-unsf-tremolo.patch
+Patch7:		gt-0.4-automake.patch
 BuildRequires:	flex
 BuildRequires:	pkgconfig(alsa)
 BuildRequires:	pkgconfig(vorbis)
