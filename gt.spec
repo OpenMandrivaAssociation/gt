@@ -36,7 +36,7 @@ disassembler.
 
 %prep
 %setup -q
-%apply_patches
+%autopatch -p1
 cp -p src/README README.timidity
 
 %build
