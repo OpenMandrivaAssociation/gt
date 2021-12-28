@@ -18,6 +18,8 @@ Patch4:		gt-0.4-ppc-compile-fix.patch
 Patch5:		gt-0.4-unsf-bigendian-fix.patch
 Patch6:		gt-0.4-unsf-tremolo.patch
 Patch7:		gt-0.4-automake.patch
+Patch8:		gt-0.4-gcc10.patch
+
 BuildRequires:	flex
 BuildRequires:	pkgconfig(alsa)
 BuildRequires:	pkgconfig(vorbis)
