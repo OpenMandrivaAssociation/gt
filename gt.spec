@@ -4,7 +4,7 @@ Version:	0.4
 Release:	15
 Group:		Sound
 License:	GPLv2+
-Url:		http://alsa.opensrc.org/GusSoundfont
+Url:		https://alsa.opensrc.org/GusSoundfont
 # This is ftp://ling.lll.hawaii.edu/pub/greg/gt-0.4.tar.gz
 # with the examples/patch and sfz directories removed as the license of the
 # samples in these dirs is unclear. Also the src/ac3* files have been removed
